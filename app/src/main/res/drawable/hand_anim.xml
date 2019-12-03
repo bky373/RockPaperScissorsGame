@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:drawable="@drawable/com_scissors"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/com_rock"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/com_paper"
+        android:duration="100"/>
+
+</animation-list>
